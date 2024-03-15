@@ -1,11 +1,12 @@
 # CDados_1
 GitHub para o Primeiro projeto de Ciência dos Dados, matéria ministrada no segundo semestre de Engenharia da Computação no Insper
 
-###O que será realizado?
+## O que será realizado?
 
 Será produzido um Classificador para identificção de sentenças, produzidas por Humanos e Inteligência Artificial
 
-### Descrição
+## Descrição
+
 
 O classificador será feito com o intuito de analisar quantas frases foram feitas por inteligência artificial(AI) e quantas frases foram feitas por humanos(HG, Human Generated, em ingles) e isso será feito por meio da comparação das frequências relativas entre cada palavra dita por humanos e por cada palavra dita pela inteligência artificial, que está armazenada em uma base de dados, arquivo com o nome "dados_teste_TRIO_USERNAME.csv", no código. Com esse arquivo e com o arquivo"dados_treino_TRIO_USERNAME.csv", será possível calcular as frequências relativas entre as palavras, sendo possível associar essas frequências com a probabilidade e então identificar qual frase possui uma maior probabilidade de ser HG ou AI.
 
